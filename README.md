@@ -1,3 +1,3 @@
-### Hi I accidentally found this repository by mistake
+### Easter Egg time
 
 I'm just a guy being a dude
