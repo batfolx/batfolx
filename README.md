@@ -1,4 +1,4 @@
-### Full Stack Engineer
+### Full Stack Engineer with AI, AWS, Cybersecurity, and DevOps experience
 
 Some of the sites I've made
 
