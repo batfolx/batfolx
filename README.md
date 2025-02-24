@@ -1,6 +1,6 @@
 # 🚀 **Full Stack Engineer with AI, AWS, Cybersecurity, and DevOps Experience**  
 
-👋 Hey there! I'm **Victor (aka Batfolx)**—a software engineer passionate about AI, automation, and building innovative solutions. From AI-assisted gaming coaches to cybersecurity platforms, I love tackling complex problems and turning ideas into real-world applications.
+Hello! I'm Victor, a software engineer passionate about AI, automation, and building innovative solutions. From AI-assisted gaming coaches to cybersecurity platforms, I love tackling complex problems and turning ideas into real-world applications.
 
 ---
 
